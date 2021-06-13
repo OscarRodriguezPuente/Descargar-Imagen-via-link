@@ -1,0 +1,6 @@
+Xamarin.AndroidX.ConstraintLayout
+Xamarin.AndroidX.ConstraintLayout.Solver
+Xamarin.AndroidX.Lifecycle.LiveData
+Xamarin.AndroidX.Legacy.Support.Core.UI
+Xamarin.AndroidX.Browser
+Xamarin.Google.Android.Material

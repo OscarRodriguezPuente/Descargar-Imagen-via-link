@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\oscar\\Documents\\Aplicaciones moviles\\E2DescargarImagen\\E2DescargarImagen\\E2DescargarImagen.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\oscar\\Documents\\Aplicaciones moviles\\E2DescargarImagen\\E2DescargarImagen\\E2DescargarImagen.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oscar\\Documents\\Aplicaciones moviles\\E2DescargarImagen\\E2DescargarImagen\\E2DescargarImagen.csproj",
+        "projectName": "E2DescargarImagen",
+        "projectPath": "C:\\Users\\oscar\\Documents\\Aplicaciones moviles\\E2DescargarImagen\\E2DescargarImagen\\E2DescargarImagen.csproj",
+        "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oscar\\Documents\\Aplicaciones moviles\\E2DescargarImagen\\E2DescargarImagen\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.AndroidX.Browser": {
+              "target": "Package",
+              "version": "[1.3.0.5, )"
+            },
+            "Xamarin.AndroidX.ConstraintLayout": {
+              "target": "Package",
+              "version": "[2.0.4.2, )"
+            },
+            "Xamarin.AndroidX.ConstraintLayout.Solver": {
+              "target": "Package",
+              "version": "[2.0.4.2, )"
+            },
+            "Xamarin.AndroidX.Legacy.Support.Core.UI": {
+              "target": "Package",
+              "version": "[1.0.0.8, )"
+            },
+            "Xamarin.AndroidX.Lifecycle.LiveData": {
+              "target": "Package",
+              "version": "[2.3.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.3.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
